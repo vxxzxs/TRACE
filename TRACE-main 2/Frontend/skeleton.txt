@@ -1,9 +1,0 @@
-Using Streamlit and React (only if vite is available)(avoid react, use streamlit only)
-
-1 single app.py file
-
-1 page; 4 sections:
-1. Job input
-2. Generate ideal recruit profile
-3. Candidate ranking
-4. Candidate evidence
