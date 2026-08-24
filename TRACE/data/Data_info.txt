@@ -1,0 +1,11 @@
+Create 5 data files which contains 1 JD and 4 resumes
+
+JD:
+Contain elements like; job title, company name, job summary, must have skills, preferred skills, minimum experience, education requirements, certifications, location and work mode, responsibilities, constraints (deal breakers)
+In proper format.
+.txt datatype
+
+Resume:
+Elements; name, education, experience, job history + roles, technical skills, soft skills, projects, certifications, location, achievements and most importantly evidence for all.
+Correct format. But all 4 candidates different. 
+.txt or .pdf (either one)
